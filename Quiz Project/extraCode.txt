@@ -1,0 +1,17 @@
+switch (choiceNum) {
+      case 1:
+        System.out.println("Wrong");
+        break;
+      case 2:
+        System.out.println("Wrong");
+        break;
+      case 3:
+        System.out.println("Right");
+        break;
+      case 4:
+        System.out.println("Wrong");
+        break;
+      default:
+        System.out.println("Invalid choice.");
+        return;
+    }
